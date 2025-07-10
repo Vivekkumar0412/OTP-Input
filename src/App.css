@@ -1,0 +1,14 @@
+.test{
+  background-color: red;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+.otp-input{
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+  font-size: 40px;
+  color: red;
+}
