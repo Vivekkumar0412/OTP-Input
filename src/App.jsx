@@ -21,7 +21,6 @@ function App() {
     }
   }
   useEffect(() => {
-    console.log("useffeect running")
     otpRef.current[0]?.focus();
   }, []);
   return (
